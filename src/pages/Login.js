@@ -37,7 +37,7 @@ className="form-control mb-2"
 onChange={handleChange}/>
 
 <input name="password"
-placeholder=" enter the Password"
+placeholder=" enter the the  the Password"
 className="form-control mb-2"
 onChange={handleChange}/>
 
