@@ -32,7 +32,7 @@ return(
 <form onSubmit={handleSubmit}>
 
 <input name="email"
-placeholder="Email"
+placeholder="Enter the Email"
 className="form-control mb-2"
 onChange={handleChange}/>
 
